@@ -44,8 +44,10 @@
 # l6=[]
 # for i in range(1,1000):
 #     if i%7==0:
-#         print(i,end=" ")
-#     l6.append(i)
+#         # print(i,end=" ")
+#         l6.append(i)
+        
+# print(l6)
             
             
 # l7= ['hell o','he  i','man si','me hak','Arsh']
@@ -59,6 +61,6 @@
 # l9=[2,3,4,5]           
 # common=[]
 # for i in l8:
-#     if i in l9 and i not in common:
+#     if i in l9:
 #         common.append(i)
 # print(common)         
